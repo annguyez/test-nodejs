@@ -13,8 +13,7 @@ app.listen(port, () => {
 
 
 console.log('1');
-<<<<<<< HEAD
 console.log('3');
-=======
 console.log('2');
->>>>>>> 2
+console.log('4');
+console.log('5');
